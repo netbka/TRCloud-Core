@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using TRCloud.web.Models;
+using TRCloud.WEB.Models;
 
-namespace TRCloud.web.Controllers
+namespace TRCloud.WEB.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace TRCloud.web.Models
+namespace TRCloud.WEB.Models
 {
     public class ErrorViewModel
     {
